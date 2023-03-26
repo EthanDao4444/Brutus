@@ -1,2 +1,0 @@
-# Brutus
-cyberbullying app
